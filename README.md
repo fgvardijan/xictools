@@ -2,6 +2,13 @@
 > Tools to manage data produced by XIC tool. 
 
 
+```python
+# if edited __init__.py with from .core import *
+# then this works
+
+#from xictools import *
+```
+
 This file will become your README and also the index of your documentation.
 
 ## Install
